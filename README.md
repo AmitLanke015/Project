@@ -64,35 +64,35 @@ app/
 
 ### Splash Screen
 
-![Splash](screenshots/splash.png)
+![Splash](screenshots/splash.jpeg)
 
 ### Home
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.jpeg)
 
 ### About
 
-![About](screenshots/about.png)
+![About](screenshots/about.jpeg)
 
 ### Skills
 
-![Skills](screenshots/skills.png)
+![Skills](screenshots/skills.jpeg)
 
 ### Projects
 
-![Projects](screenshots/projects.png)
+![Projects](screenshots/projects.jpeg)
 
 ### Experience
 
-![Experience](screenshots/experience.png)
+![Experience](screenshots/experience.jpeg)
 
 ### Certificates
 
-![Certificates](screenshots/certificates.png)
+![Certificates](screenshots/certificates.jpeg)
 
 ### Contact
 
-![Contact](screenshots/contact.png)
+![Contact](screenshots/contact.jpeg)
 
 ---
 
